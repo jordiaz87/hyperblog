@@ -2,7 +2,7 @@ Esta es la historia de prueba
 
 que se va a estar usando en este curso
 
-se agrega nuevo usuario jorjorf desde ubuntu 
+jorjorf es una persona que contribuye con el proyecto desde ubuntu 
 
 mañana hablaremos de su vida laboral 
 
